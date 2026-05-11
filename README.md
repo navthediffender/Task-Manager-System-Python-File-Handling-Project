@@ -41,18 +41,28 @@ This project was completed as part of the HyperionDev / The University of Manche
 - Report generation
 - Debugging and problem-solving
 
+
 ## How to Run
 
 1. Download or clone this repository.
 2. Make sure all text files are in the same folder as `task_manager2.py`.
 3. Run the program using Python:
 
-```bash
-python task_manager2.py
-Log in using an existing user from user.txt.
-Example admin login:
-Username: admin
-Password: password
-Project Purpose
-The aim of this project was to practise building a realistic command-line task management system using Python. It shows how user data and task records can be stored, updated, searched, and reported using plain text files.
+    python task_manager2.py
 
+4. Log in using an existing user from `user.txt`.
+
+Example admin login:
+
+Username: admin  
+Password: password
+
+## Project Purpose
+
+The aim of this project was to practise building a realistic command-line task management system using Python.
+
+It shows how user data and task records can be stored, updated, searched, edited, deleted, and reported using plain text files.
+
+## Status
+
+Completed as a bootcamp project and added to GitHub as part of my cybersecurity and IT support portfolio.
