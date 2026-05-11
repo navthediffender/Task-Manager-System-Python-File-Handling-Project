@@ -1,0 +1,35 @@
+USER OVERVIEW
+----------------------------------------
+Total users: 3
+Total tasks: 6
+
+----------------------------------------
+User: admin
+Tasks assigned: 2
+Percentage of all tasks: 33.33%
+Completed tasks: 0
+Uncompleted tasks: 2
+Overdue tasks: 0
+% Completed: 0.00%
+% Uncompleted: 100.00%
+
+----------------------------------------
+User: navid
+Tasks assigned: 0
+Percentage of all tasks: 0.00%
+Completed tasks: 0
+Uncompleted tasks: 0
+Overdue tasks: 0
+% Completed: 0.00%
+% Uncompleted: 0.00%
+
+----------------------------------------
+User: gofy
+Tasks assigned: 2
+Percentage of all tasks: 33.33%
+Completed tasks: 0
+Uncompleted tasks: 2
+Overdue tasks: 1
+% Completed: 0.00%
+% Uncompleted: 100.00%
+
