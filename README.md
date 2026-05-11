@@ -56,12 +56,3 @@ Password: password
 Project Purpose
 The aim of this project was to practise building a realistic command-line task management system using Python. It shows how user data and task records can be stored, updated, searched, and reported using plain text files.
 
-Important: your repo looks good, but the README title has too many hyphens:
-
-**Task-Manager-System-Python-File-Handling-Project**
-
-That is okay for the repo name, but inside README the title should look cleaner:
-
-**Task Manager System – Python File Handling Project**
-
-So yes — update the README before posting it on LinkedIn. It will look much more professional. ✅
